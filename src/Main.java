@@ -5,9 +5,11 @@ public class Main {
         // 2. You must have at least 5 lines of output.
         // 3. You must use at least one Tab (\t) and one New Line (\n).
         // 4. Example: 
-        //    **********
-        //    * NAME: Mohit *
-        //    **********
+        //    *********************
+        //    * NAME: Mohit       *
+        //    * ROLE: DEVELOPER   *
+        //    * DEPT: ENGINEERING *
+        //    *********************
 
         // START YOUR CODE BELOW THIS LINE
         
